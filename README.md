@@ -92,7 +92,7 @@ Correlation analysis between mall attributes and sales.
 
 Hypothesis testing to determine significant factors affecting sales and customer behavior.
 
-# 4. Forecasting & Predictive Modeling (If applicable)
+# 4. Forecasting & Predictive Modeling 
 
 Applying time-series analysis for sales trends.
 
@@ -132,5 +132,6 @@ Applying machine learning for advanced predictive analytics.
 
 # Author & Acknowledgments
 
-Author: Sweety DavisAcknowledgments: Thanks to the data providers and the open-source community for supporting data analysis initiatives.
+Author: Sweety Davis
+Acknowledgments: Thanks to the data providers and the open-source community for supporting data analysis initiatives.
 
